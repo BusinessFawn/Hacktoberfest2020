@@ -270,3 +270,7 @@
  - Place: Kerala, India
  - Bio: Student, Programming enthusiast
  - Github: [SnappierSoap318](https://github.com/SnappierSoap318)
+ #### Name: [businessFawn](https://github.com/businessfawn)
+ - Place: Raleigh, NC
+ - Bio: guy who enjoys github!
+ - Github: [businessFawn](https://github.com/businessfawn)

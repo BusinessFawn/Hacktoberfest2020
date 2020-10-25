@@ -1,6 +1,6 @@
-// LANGUAGE:python
-// AUTHOR: AdharshAntony
-// GITHUB: https://github.com/AdharshAntony
+#LANGUAGE: Python
+# AUTHOR: Shreya Gautam
+# GITHUB: "https://github.com/ShreyaGautamm"
 
 
-print('Hello, World!')
+print("Hello World!")
